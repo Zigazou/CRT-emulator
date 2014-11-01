@@ -26,11 +26,11 @@ Example
 
 Here’s a screenshot from the game Cybernoid on Amstrad CPC
 
-![](https://github.com/Zigazou/CRT-emulator/blob/master/cybernoid.crt.png)
+![](https://github.com/Zigazou/CRT-emulator/blob/master/cybernoid.emulator.png)
 
 after CRT-Emulator
 
-![](https://github.com/Zigazou/CRT-emulator/blob/master/cybernoid.emulator.png)
+![](https://github.com/Zigazou/CRT-emulator/blob/master/cybernoid.crt.png)
 
 Notes
 -----
