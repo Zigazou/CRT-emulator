@@ -21,6 +21,17 @@ The script is accessible via the `Filters/Distort/CRT emulator` menu.
 
 It requires no parameter.
 
+Example
+-------
+
+Here’s a screenshot from the game Cybernoid on Amstrad CPC
+
+![](https://github.com/Zigazou/CRT-emulator/blob/master/cybernoid.crt.png)
+
+after CRT-Emulator
+
+![](https://github.com/Zigazou/CRT-emulator/blob/master/cybernoid.emulator.png)
+
 Notes
 -----
 
